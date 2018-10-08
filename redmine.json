@@ -1,0 +1,18 @@
+{ 
+  "issue": {
+    "id": 73865,
+    "project": {
+      "id": 5
+    },
+    "tracker": {
+      "id": 61
+    },
+    "priority": {
+      "id": 4
+    },
+    "assigned_to": {
+      "id": 2272
+    },
+    "description": "testing"
+  }
+}
